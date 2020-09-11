@@ -1,1 +1,0 @@
-# 03EX1AfbeeldingenTabellen
