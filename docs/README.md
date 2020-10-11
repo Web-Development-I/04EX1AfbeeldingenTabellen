@@ -24,7 +24,7 @@ Maak analoog aan oefening 1 een pagina genaamd **tabel2.html**. Zorg voor volgen
 ## OEFENING 3.
 - Maak in de map **Starteroefeningen** een pagina genaamd **afbeelding1.html** en een submap genaamd **images**. 
 - Zoek een afbeelding van een tsjechoslowaakse wolfhond, een saarloos wolfhond en een wolf. 
-- Schaal elke afbeelding naar een breedte van 100px. _Je kan dit online doen of via een eenvoudig tekenprogramma zoals MS Paint_
+- Schaal elke afbeelding naar een breedte van 500px. _Je kan dit online doen of via een eenvoudig tekenprogramma zoals MS Paint_
 - Bewaar deze afbeeldingen in de map images en bouw je pagina op volgens onderstaande screenshot.
 
  ![](images/wolven.png)
